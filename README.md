@@ -18,9 +18,3 @@
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2giseok&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2giseok&layout=compact&theme=radical" alt="Top Languages" />
-</div>
